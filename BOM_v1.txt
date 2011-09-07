@@ -1,0 +1,20 @@
+Bill of materials: sensor expansion board v1.0
+===============================================
+
+
+					
+Ref         Quantity       Description	                Vendor	    Part #	        
+--------------------------------------------------------------------------------------------------
+D1            1            Red LED                      Jameco      202471	        
+C1            1            0.33 uF capacitor            Jameco      544930	        
+P1            1            2x2 connector                Jameco      109516	        
+R2            1            68 Ohm resistor, 1/4W        Jameco      661221	        
+P2            1            4x1 connector                Digikey     A1922-ND	    
+R1            1            220 Ohm resistor, 1/8W       Digikey     CF18JT220RCT-ND	
+R3            1            5.6K Ohm resistor, 1/8W      Digikey     CF18JT5K60CT-ND	
+R4            1            150 Ohm resistor, 1/8W       Digikey     CF18JT150RCT-ND	
+U1            2            15-pos connector receptacle  Digikey     SAM1222-15-ND	
+U1            1            Arduino Nano                 Jameco      2121148		
+
+
+
